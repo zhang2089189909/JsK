@@ -1,0 +1,59 @@
+{
+  "info":[
+    {"img":"img1/tubiao_03.jpg","title":"私人FM"},
+    {"img":"img1/tubiao_05.jpg","title":"每日歌曲推荐"},
+    {"img":"img1/tubiao_07.gif","title":"云音乐热歌榜"}
+  ],
+  "gedan":[
+    {"img":"img1/con-1_02.gif","main":"地球日;你有什么话想对地球..."},
+    {"img":"img1/con-1_04.gif","main":"地球日;你有什么话想对地球..."},
+    {"img":"img1/con-1_06.gif","main":"地球日;你有什么话想对地球..."},
+    {"img":"img1/con-1_10.gif","main":"地球日;你有什么话想对地球..."},
+    {"img":"img1/con-1_11.gif","main":"地球日;你有什么话想对地球..."},
+    {"img":"img1/con-1_12.jpg","main":"地球日;你有什么话想对地球..."}
+  ],
+  "dujia":[
+    {"img":"img1/dujia_02.jpg","main":"Kate Upton&Ricky Martin 《对嘴假唱大挑..."},
+    {"img":"img1/dujia_03.jpg","main":"Kate Upton&Ricky Martin 《对嘴假唱大挑..."},
+    {"img":"img1/banner-2_02.jpg","main":"福利黑洞：万元内耳机听个响？200元也有好声音"}
+  ],
+  "zuixin":[
+    {"img":"img1/zuixin_02.gif","main1":"新歌推荐","main2":"推荐合口味的..."},
+    {"img":"img1/zuixin_04.gif","main1":"Palette","main2":"IU"},
+    {"img":"img1/zuixin_06.gif","main1":"There's Nothi...","main2":"Shawn Mendes"},
+    {"img":"img1/zuixin_10.gif","main1":"I Don't(Remix)","main2":"Mariah Carey/..."},
+    {"img":"img1/zuixin_11.gif","main1":"一定要幸福","main2":"张靓颖"},
+    {"img":"img1/zuixin_12.jpg","main1":"暧昧","main2":"薛之谦"}
+  ],
+  "MV":[
+    {"img":"img1/tuijian_02.gif","main1":"Something About You","main2":"Chace/Yade Lauren"},
+    {"img":"img1/tuijian_04.gif","main1":"Something About You","main2":"Chace/Yade Lauren"},
+    {"img":"img1/tuijian_07.gif","main1":"Something About You","main2":"Chace/Yade Lauren"},
+    {"img":"img1/tuijian_08.jpg","main1":"Something About You","main2":"Chace/Yade Lauren"}
+  ],
+  "jingxuan":[
+    {"zl":"专栏","main1":"《十念》：古风歌首小曲儿十年音乐之旅","main2":"阅读 33492","img":"img1/jingxuan_03.gif"},
+    {"zl":"专栏","main1":"《十念》：古风歌首小曲儿十年音乐之旅","main2":"阅读 33492","img":"img1/jingxuan_05.gif"},
+    {"zl":"专栏","main1":"《十念》：古风歌首小曲儿十年音乐之旅","main2":"阅读 33492","img":"img1/jingxuan_07.jpg"}
+  ],
+  "zhubo":[
+    {"img":"img1/zhubo_02.gif","main":"麻婆豆腐滚滚来，水逆水逆..."},
+    {"img":"img1/zhubo_04.gif","main":"麻婆豆腐滚滚来，水逆水逆..."},
+    {"img":"img1/zhubo_06.gif","main":"麻婆豆腐滚滚来，水逆水逆..."},
+    {"img":"img1/zhubo_10.gif","main":"麻婆豆腐滚滚来，水逆水逆..."},
+    {"img":"img1/zhubo_11.gif","main":"麻婆豆腐滚滚来，水逆水逆..."},
+    {"img":"img1/zhubo_12.jpg","main":"麻婆豆腐滚滚来，水逆水逆..."}
+  ],
+  "cont_2":[
+    {"img":"img2/con_1_02.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_04.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_07.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_08.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_11.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_12.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_15.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_16.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_19.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"},
+    {"img":"img2/con_1_20.jpg","main":"考验听力的时候 | 一首歌证明你是不是真爱粉丝"}
+  ]
+}
